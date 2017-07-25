@@ -10,6 +10,12 @@ namespace Comp123_S2017_Lesson11A
         //private instance variables
         private Face _face;
         private Suits _suit;
+
+        public Card()
+        {
+            throw new System.NotImplementedException();
+        }
+
         //public properties
         public Face Face
         {
